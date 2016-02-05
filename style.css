@@ -1,0 +1,30 @@
+.wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+.head {
+	text-align: center;
+}
+p,li {
+	font-size: 20px;
+}
+li {
+	padding: 5px 0;
+}
+p, ul {
+	margin-left: 20px;
+}
+ul {
+	padding-left: 30px;
+}
+h1 {
+	padding-top: 30px;
+	text-align: center;
+}
+img {
+	height: 200px;
+	width: 150px;
+}
+hr {
+	margin: 25px 0 30px;
+}
