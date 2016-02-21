@@ -4,12 +4,14 @@
 }
 body {
 	font-family: 'Open Sans', sans-serif;
+	background: #f9f9f9;
 }
 .wrapper-center {
 	width: 966px;
 	margin: 0 auto;
 	padding: 50px 48px 50px 46px;
 	box-shadow: 0px 0px 2px 2px #dbdbdb;
+	background: #fff;
 }
 
 			/*HEADER*/
