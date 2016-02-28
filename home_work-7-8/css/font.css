@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'League Gothic';
+    src: url('../fonts/league-gothic.leaguegothic-regular-webfont.eot');
+    src: url('../fonts/league-gothic.leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/league-gothic.leaguegothic-regular-webfont.woff2') format('woff2'),
+         url('../fonts/league-gothic.leaguegothic-regular-webfont.woff') format('woff'),
+         url('../fonts/league-gothic.leaguegothic-regular-webfont.woff2') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
