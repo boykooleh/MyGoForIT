@@ -3,8 +3,7 @@
 	padding: 0;
 }
 .wrapper-center {
-	margin: 0 auto;
-	width: 1215px;
+	width: 100%;
 	font-family: "Helvetica Neue";
 }
 .top-line {
@@ -12,8 +11,10 @@
 	background: url(../img/top-menu.jpg);
 }
 .main-container {
-	background: url(../img/bg.jpg) no-repeat;
-	min-height: 1028px;
+    background: url(../img/bg.jpg) no-repeat;
+    min-height: 1028px;
+    background-size: cover;
+    width: 100%;
 }
 .navigation {
 	float: right;
