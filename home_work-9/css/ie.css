@@ -1,0 +1,48 @@
+.about-company__company-item:first-child + .about-company__company-item + .about-company__company-item  {
+    margin-right: 0;
+}
+.news__block-news:first-child + .news__block-news  {
+	float: right;
+	margin-right: 0;
+}
+.about-company {
+	background: #5b4067;
+}
+.head-slide__nav a {
+	background: #42444d;
+}
+.logo__logo-link img{
+	border: none;
+}
+.about-company__company-item:first-child + .about-company__company-item:before {
+	background: url(../img/sprite-icon.png) no-repeat -49px 0;
+}
+.about-company__company-item:first-child + .about-company__company-item + .about-company__company-item:before {
+	background: url(../img/sprite-icon.png) no-repeat -95px 0;
+}
+.baners__baner-item {
+	width: 72px;
+	background-image: url(../img/banner1.png);
+	background-repeat: no-repeat;
+}
+.baners__baner-item:first-child+.baners__baner-item {
+	background-image: url(../img/banner2.png);
+	background-repeat: no-repeat;
+}
+.baners__baner-item:first-child+.baners__baner-item + .baners__baner-item {
+	background-image: url(../img/banner3.png);
+	background-repeat: no-repeat;
+}
+.baners__baner-item:first-child+.baners__baner-item + .baners__baner-item + .baners__baner-item {
+	background-image: url(../img/banner4.png);
+	background-repeat: no-repeat;
+}
+.baners__baner-item:first-child+.baners__baner-item + .baners__baner-item + .baners__baner-item+ .baners__baner-item {
+	background-image: url(../img/banner5.png);
+	background-repeat: no-repeat;
+
+}
+.baners__baner-item:first-child+.baners__baner-item + .baners__baner-item + .baners__baner-item+ .baners__baner-item +.baners__baner-item{
+	background-image: url(../img/banner6.png);
+	background-repeat: no-repeat;
+}
