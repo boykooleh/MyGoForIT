@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Arial;
+	background: #2e3349;
+	padding: 50px 150px;
+}
+.test {
+	color: #fff;
+}
+.test__name {
+	text-align: center;
+	margin-bottom: 50px;
+}
+.question {
+	padding: 10px 70px;
+}
+.question__title {
+	padding-bottom: 10px;
+}
+.answer__title {
+	display: block;
+	margin-left: 50px;
+	padding: 5px 0;
+}
+.test__submit {
+	display: block;
+	margin: 0 auto;
+	padding: 10px;
+	background: none;
+	border: none;
+	border: 1px solid #ccc;
+	border-radius: 25%;
+	color: #fff;
+	font-size: 25px;
+}
+.answer__checkbox {
+	margin-right: 10px;
+}
